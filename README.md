@@ -1,3 +1,4 @@
+<img width="500" height="500" alt="Mednova" src="https://github.com/user-attachments/assets/09d30307-e9e4-4cf6-a4a9-d7a6adbc6d35" />
 <!DOCTYPE html>
 <html lang="fr">
 <head>
